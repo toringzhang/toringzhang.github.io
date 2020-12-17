@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Stronger
 
-You can use the [editor on GitHub](https://github.com/toringzhang/toringzhang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/toringzhang/toringzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You know the bed feels warmer
+Sleeping here alone
+You know I dream in color
+And do the things I want
+You think you got the best of me
+Think you had the last laugh
+Bet you think that everything good is gone
+Think you left me broken down
+Think that I'd come running back
+Baby you don't know me, 'cause you're dead wrong
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+What doesn't kill you makes a fighter
+Footsteps even lighter
+Doesn't mean I'm over 'cause you're gone
+What doesn't kill you makes you stronger, stronger
+Just me, myself and I
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+You heard that I was starting over with someone new
+But told you I was moving on over you
+You didn't think that I'd come back
+I'd come back swinging
+You try to break me but you see what doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+What doesn't kill you makes a fighter
+Footsteps even lighter
+Doesn't mean I'm over 'cause you're gone
+What doesn't kill you makes you stronger, stronger
+Just me, myself and I
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+Thanks to you I got a new thing started
+Thanks to you I'm not the broken-hearted
+Thanks to you I'm finally thinking 'bout me
+You know in the end the day to left was just my beginning
+In the end
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+What doesn't kill you makes a fighter
+Footsteps even lighter
+Doesn't mean I'm over 'cause you're gone
+What doesn't kill you makes you stronger, stronger
+Just me, myself and
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+What doesn't kill you makes you stronger, stronger
+Just me, myself and I
+What doesn't kill you makes you stronger
+Stand a little taller
+Doesn't mean I'm lonely when I'm alone
+When I'm alone
