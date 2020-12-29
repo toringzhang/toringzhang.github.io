@@ -1,19 +1,19 @@
 ---
 title: "Golang append slice详解"
 categories:
-  - Blog
+  - 学习笔记
 tags:
   - Golang
   - 语言基础
 ---
 
-## 0x00 结论
+#### 结论
 
 1. golang append函数在append int等基本类型时作为值拷贝append，而数组等类型是引用拷贝。
 2. golang在申请数组空间时是以上次申请内存的2倍来申请内存。
 3. 数组每次申请额外空间会重新寻找合适的内存地址
 
-## 0x01 测试
+#### 测试
 
 ```go
 // 值拷贝
@@ -88,6 +88,6 @@ len(b) cap(b) address  value
 */
 ```
 
-## 0x02 引用
+#### 引用
 
 - [1][The Go Programming Language Specification](https://golang.google.cn/ref/spec#Appending_and_copying_slices)
